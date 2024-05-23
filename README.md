@@ -6,13 +6,13 @@
 
 MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
 
-|   Index | Name                             | Difficulty   | Tutorial                                                                              |
-|---------|----------------------------------|--------------|---------------------------------------------------------------------------------------|
-|       1 | Database Management Fundamentals | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/database-management-fundamentals-178584) |
-|       2 | Mastering SQL's SELECT Statement | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mastering-sql-s-select-statement-178585) |
-|       3 | Modify and Delete                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/modify-and-delete-178586)                |
-|       4 | Other Basic Operations           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/other-basic-operations-178587)           |
-|       5 | Installation of MySQL            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/installation-of-mysql-178583)            |
+|   Index | Name                                | Difficulty   | Tutorial                                                                               |
+|---------|-------------------------------------|--------------|----------------------------------------------------------------------------------------|
+|       1 | 📖 Database Management Fundamentals | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/database-management-fundamentals-178584) |
+|       2 | 📖 Mastering SQL's SELECT Statement | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mastering-sql-s-select-statement-178585) |
+|       3 | 📖 Modify and Delete                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/modify-and-delete-178586)                |
+|       4 | 📖 Other Basic Operations           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/other-basic-operations-178587)           |
+|       5 | 📖 Installation of MySQL            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/installation-of-mysql-178583)            |
 
 ## More Free Tutorials
 
