@@ -12,17 +12,17 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 |      02 | 📖 Mastering SQL's SELECT Statement                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-mastering-sql-s-select-statement-178585)                        |
 |      03 | 📖 Modify and Delete                                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-modify-and-delete-178586)                                       |
 |      04 | 📖 Other Basic Operations                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-other-basic-operations-178587)                                  |
-|      05 | 📖 Operate the Course Table (Lab)                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-operate-the-course-table-lab-300384)                       |
-|      06 | 📖 Course Schedule CRUD With MyBatis (Lab)               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-course-schedule-crud-with-mybatis-lab-300354)              |
-|      07 | 📖 Extending Entity with Custom Properties (Lab)         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/java-extending-entity-with-custom-properties-lab-300358)              |
+|      05 | 📖 Operate the Course Table                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-operate-the-course-table-lab-300384)                       |
+|      06 | 📖 Course Schedule CRUD With MyBatis                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-course-schedule-crud-with-mybatis-lab-300354)              |
+|      07 | 📖 Extending Entity with Custom Properties               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/java-extending-entity-with-custom-properties-lab-300358)              |
 |      08 | 📖 Modifying the Teacher Table Using PreparedStatemen... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-modifying-the-teacher-table-using-preparedstatement-lab-301362) |
-|      09 | 📖 Statement for Querying Classroom Table (Lab)          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-statement-for-querying-classroom-table-lab-301412)              |
-|      10 | 📖 Practical Use of resultMap (Lab)                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-practical-use-of-resultmap-lab-300390)                     |
-|      11 | 📖 Query Teacher Salary Using PreparedStatement (Lab)    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-query-teacher-salary-using-preparedstatement-lab-301390)        |
-|      12 | 📖 University Information Query System (Lab)             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-university-information-query-system-lab-301422)                 |
-|      13 | 📖 Bulk Insert Data Into Course Schedule (Lab)           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-bulk-insert-data-into-course-schedule-lab-300346)               |
+|      09 | 📖 Statement for Querying Classroom Table                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-statement-for-querying-classroom-table-lab-301412)              |
+|      10 | 📖 Practical Use of resultMap                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-practical-use-of-resultmap-lab-300390)                     |
+|      11 | 📖 Query Teacher Salary Using PreparedStatement          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-query-teacher-salary-using-preparedstatement-lab-301390)        |
+|      12 | 📖 University Information Query System                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-university-information-query-system-lab-301422)                 |
+|      13 | 📖 Bulk Insert Data Into Course Schedule                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mysql-bulk-insert-data-into-course-schedule-lab-300346)               |
 |      14 | 📖 Installation of MySQL                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-installation-of-mysql-178583)                                   |
-|      15 | 📖 Build URL Shortener with Flask MySQL (Lab)            | ★★★          | [🔗 Learning Free](https://labex.io/tutorials/html-build-url-shortener-with-flask-mysql-lab-298925)                 |
+|      15 | 📖 Build URL Shortener with Flask MySQL                  | ★★★          | [🔗 Learning Free](https://labex.io/tutorials/html-build-url-shortener-with-flask-mysql-lab-298925)                 |
 
 ## More Free Tutorials
 
