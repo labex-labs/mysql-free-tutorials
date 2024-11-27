@@ -1,5 +1,9 @@
 # MySQL Free Tutorials
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/amNAVWgtDX5M.png">
 </div>
@@ -8,11 +12,14 @@ MySQL is a popular relational database management system. This Skill Tree provid
 
 |   Index | Name                                                                                                                                     | Difficulty   | Tutorial Link                                                                                   |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------|
-|       1 | [📖 Installation and Basic Configuration of MySQL](https://labex.io/tutorials/linux-installation-and-basic-configuration-of-mysql-391538) | ★☆☆          | [🔗 View](https://labex.io/tutorials/linux-installation-and-basic-configuration-of-mysql-391538) |
-|       2 | [📖 Database Management Fundamentals](https://labex.io/tutorials/mysql-database-management-fundamentals-391537)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-database-management-fundamentals-391537)              |
-|       3 | [📖 SQL's SELECT Statement](https://labex.io/tutorials/mysql-sql-s-select-statement-391541)                                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-sql-s-select-statement-391541)                        |
-|       4 | [📖 Modify and Delete](https://labex.io/tutorials/mysql-modify-and-delete-391539)                                                         | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-modify-and-delete-391539)                             |
-|       5 | [📖 Other Basic Operations](https://labex.io/tutorials/linux-other-basic-operations-391540)                                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/linux-other-basic-operations-391540)                        |
+|       1 | [📖 Installation and Basic Configuration of MySQL](https://labex.io/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) |
+|       2 | [📖 Database Management Fundamentals with MySQL](https://labex.io/tutorials/mysql-database-management-fundamentals-with-mysql-418414)     | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-database-management-fundamentals-with-mysql-418414)   |
+|       3 | [📖 MySQL Table Structure and Data Types](https://labex.io/tutorials/mysql-mysql-table-structure-and-data-types-418307)                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-mysql-table-structure-and-data-types-418307)          |
+|       4 | [📖 MySQL Basic Data Manipulation](https://labex.io/tutorials/sql-mysql-basic-data-manipulation-418303)                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/sql-mysql-basic-data-manipulation-418303)                   |
+|       5 | [📖 MySQL Data Filtering and Sorting](https://labex.io/tutorials/mysql-mysql-data-filtering-and-sorting-418305)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-mysql-data-filtering-and-sorting-418305)              |
+|       6 | [📖 MySQL Multi-Table Operations](https://labex.io/tutorials/mysql-mysql-multi-table-operations-418306)                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-mysql-multi-table-operations-418306)                  |
+|       7 | [📖 MySQL Data Aggregation and Grouping](https://labex.io/tutorials/mysql-mysql-data-aggregation-and-grouping-418304)                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-mysql-data-aggregation-and-grouping-418304)           |
+|       8 | [📖 MySQL User and Privileges Management](https://labex.io/tutorials/mysql-mysql-user-and-privileges-management-418308)                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/mysql-mysql-user-and-privileges-management-418308)          |
 
 ## More Free Tutorials
 
