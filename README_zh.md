@@ -12,19 +12,20 @@ MySQL 是一款广泛使用的关系型数据库管理系统。此技能树为�
 
 |   序号 | 名称                                                                                                                  | 难度   | 教程链接                                                                                            |
 |--------|-----------------------------------------------------------------------------------------------------------------------|--------|-----------------------------------------------------------------------------------------------------|
-|      1 | [📖 MySQL 的安装与基础配置](https://labex.io/zh/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) | ★★☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) |
-|      2 | [📖 MySQL 数据库管理基础](https://labex.io/zh/tutorials/mysql-database-management-fundamentals-with-mysql-418414)     | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-database-management-fundamentals-with-mysql-418414)   |
-|      3 | [📖 MySQL 表结构与数据类型](https://labex.io/zh/tutorials/mysql-mysql-table-structure-and-data-types-418307)          | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-table-structure-and-data-types-418307)          |
-|      4 | [📖 MySQL 基本数据操作](https://labex.io/zh/tutorials/sql-mysql-basic-data-manipulation-418303)                       | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/sql-mysql-basic-data-manipulation-418303)                   |
-|      5 | [📖 MySQL 数据过滤与排序](https://labex.io/zh/tutorials/mysql-mysql-data-filtering-and-sorting-418305)                | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-data-filtering-and-sorting-418305)              |
-|      6 | [📖 MySQL 多表操作](https://labex.io/zh/tutorials/mysql-mysql-multi-table-operations-418306)                          | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-multi-table-operations-418306)                  |
-|      7 | [📖 MySQL 数据聚合与分组](https://labex.io/zh/tutorials/mysql-mysql-data-aggregation-and-grouping-418304)             | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-data-aggregation-and-grouping-418304)           |
-|      8 | [📖 MySQL 用户与权限管理](https://labex.io/zh/tutorials/mysql-mysql-user-and-privileges-management-418308)            | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-user-and-privileges-management-418308)          |
-|      9 | [📖 MySQL 数据库管理基础](https://labex.io/zh/tutorials/mysql-mysql-database-management-fundamentals-301326)          | ★☆☆    | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-database-management-fundamentals-301326)        |
+|     01 | [📖 探索 MySQL 系统表](https://labex.io/zh/tutorials/mysql-explore-mysql-system-tables-391702)                        | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-explore-mysql-system-tables-391702)                   |
+|     02 | [📖 创建你的第一个 MySQL 数据库](https://labex.io/zh/tutorials/mysql-create-your-first-mysql-database-418265)         | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-create-your-first-mysql-database-418265)              |
+|     03 | [📖 书籍搜索挑战](https://labex.io/zh/tutorials/mysql-book-search-challenge-418297)                                   | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-book-search-challenge-418297)                         |
+|     04 | [📖 创建产品目录表](https://labex.io/zh/tutorials/mysql-create-a-product-catalog-table-418298)                        | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-create-a-product-catalog-table-418298)                |
+|     05 | [📖 记录电影数据挑战](https://labex.io/zh/tutorials/mysql-record-movie-data-challenge-418302)                         | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-record-movie-data-challenge-418302)                   |
+|     06 | [📖 MySQL 基本数据操作](https://labex.io/zh/tutorials/sql-mysql-basic-data-manipulation-418303)                       | 初级   | [🔗 View](https://labex.io/zh/tutorials/sql-mysql-basic-data-manipulation-418303)                   |
+|     07 | [📖 MySQL 数据过滤与排序](https://labex.io/zh/tutorials/mysql-mysql-data-filtering-and-sorting-418305)                | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-data-filtering-and-sorting-418305)              |
+|     08 | [📖 MySQL 表结构与数据类型](https://labex.io/zh/tutorials/mysql-mysql-table-structure-and-data-types-418307)          | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-mysql-table-structure-and-data-types-418307)          |
+|     09 | [📖 MySQL 数据库管理基础](https://labex.io/zh/tutorials/mysql-database-management-fundamentals-with-mysql-418414)     | 初级   | [🔗 View](https://labex.io/zh/tutorials/mysql-database-management-fundamentals-with-mysql-418414)   |
+|     10 | [📖 MySQL 的安装与基础配置](https://labex.io/zh/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) | 中级   | [🔗 View](https://labex.io/zh/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) |
 
 ## 更多
 
 - 🔗 [MySQL 了解更多](https://labex.io/zh/skilltrees/mysql)
-- 🔗 [Awesome 编程课程](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Awesome 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
 
