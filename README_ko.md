@@ -12,19 +12,20 @@ MySQL 은 널리 사용되는 관계형 데이터베이스 관리 시스템입�
 
 |   인덱스 | 이름                                                                                                                                | 난이도   | 튜토리얼 링크                                                                                       |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------|
-|        1 | [📖 MySQL 설치 및 기본 설정](https://labex.io/ko/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415)              | ★★☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) |
-|        2 | [📖 MySQL 을 이용한 데이터베이스 관리 기본](https://labex.io/ko/tutorials/mysql-database-management-fundamentals-with-mysql-418414) | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-database-management-fundamentals-with-mysql-418414)   |
-|        3 | [📖 MySQL 테이블 구조 및 데이터 유형](https://labex.io/ko/tutorials/mysql-mysql-table-structure-and-data-types-418307)              | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-table-structure-and-data-types-418307)          |
-|        4 | [📖 MySQL 기본 데이터 조작](https://labex.io/ko/tutorials/sql-mysql-basic-data-manipulation-418303)                                 | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sql-mysql-basic-data-manipulation-418303)                   |
-|        5 | [📖 MySQL 데이터 필터링 및 정렬](https://labex.io/ko/tutorials/mysql-mysql-data-filtering-and-sorting-418305)                       | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-data-filtering-and-sorting-418305)              |
-|        6 | [📖 MySQL 다중 테이블 연산](https://labex.io/ko/tutorials/mysql-mysql-multi-table-operations-418306)                                | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-multi-table-operations-418306)                  |
-|        7 | [📖 MySQL 데이터 집계 및 그룹화](https://labex.io/ko/tutorials/mysql-mysql-data-aggregation-and-grouping-418304)                    | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-data-aggregation-and-grouping-418304)           |
-|        8 | [📖 MySQL 사용자 및 권한 관리](https://labex.io/ko/tutorials/mysql-mysql-user-and-privileges-management-418308)                     | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-user-and-privileges-management-418308)          |
-|        9 | [📖 MySQL 데이터베이스 관리 기본](https://labex.io/ko/tutorials/mysql-mysql-database-management-fundamentals-301326)                | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-database-management-fundamentals-301326)        |
+|       01 | [📖 MySQL 시스템 테이블 탐색](https://labex.io/ko/tutorials/mysql-explore-mysql-system-tables-391702)                               | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-explore-mysql-system-tables-391702)                   |
+|       02 | [📖 첫 번째 MySQL 데이터베이스 생성하기](https://labex.io/ko/tutorials/mysql-create-your-first-mysql-database-418265)               | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-create-your-first-mysql-database-418265)              |
+|       03 | [📖 도서 검색 챌린지](https://labex.io/ko/tutorials/mysql-book-search-challenge-418297)                                             | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-book-search-challenge-418297)                         |
+|       04 | [📖 제품 카탈로그 테이블 생성](https://labex.io/ko/tutorials/mysql-create-a-product-catalog-table-418298)                           | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-create-a-product-catalog-table-418298)                |
+|       05 | [📖 영화 데이터 기록 챌린지](https://labex.io/ko/tutorials/mysql-record-movie-data-challenge-418302)                                | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-record-movie-data-challenge-418302)                   |
+|       06 | [📖 MySQL 기본 데이터 조작](https://labex.io/ko/tutorials/sql-mysql-basic-data-manipulation-418303)                                 | 초급     | [🔗 View](https://labex.io/ko/tutorials/sql-mysql-basic-data-manipulation-418303)                   |
+|       07 | [📖 MySQL 데이터 필터링 및 정렬](https://labex.io/ko/tutorials/mysql-mysql-data-filtering-and-sorting-418305)                       | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-data-filtering-and-sorting-418305)              |
+|       08 | [📖 MySQL 테이블 구조 및 데이터 유형](https://labex.io/ko/tutorials/mysql-mysql-table-structure-and-data-types-418307)              | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-mysql-table-structure-and-data-types-418307)          |
+|       09 | [📖 MySQL 을 이용한 데이터베이스 관리 기본](https://labex.io/ko/tutorials/mysql-database-management-fundamentals-with-mysql-418414) | 초급     | [🔗 View](https://labex.io/ko/tutorials/mysql-database-management-fundamentals-with-mysql-418414)   |
+|       10 | [📖 MySQL 설치 및 기본 설정](https://labex.io/ko/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415)              | 중급     | [🔗 View](https://labex.io/ko/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415) |
 
 ## 더 보기
 
 - 🔗 [MySQL 자세히 알아보기](https://labex.io/ko/skilltrees/mysql)
-- 🔗 [Awesome 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Awesome 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
 
